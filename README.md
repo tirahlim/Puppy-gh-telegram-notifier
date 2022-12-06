@@ -1,6 +1,6 @@
 # telegram-notifier
 
-## Goal
+## Purpose
 
 When someone commit a change in the repository, an action is triggered and send a notification to Telegram to notify members.
 
