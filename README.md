@@ -1,4 +1,4 @@
-# telegram-notifier
+# DevOps - Telegram Notifier
 
 ## Purpose
 
